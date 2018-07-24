@@ -58,7 +58,7 @@ Zizaco\Entrust\EntrustServiceProvider::class,
 4) Run the command below to the package config file `config/entrust.php`:
 
 ```shell
-php artisan vendor:publish php artisan vendor:publish --provider="Zizaco\Entrust\EntrustServiceProvider"
+php artisan vendor:publish --provider="Zizaco\Entrust\EntrustServiceProvider"
 
 ```
 
